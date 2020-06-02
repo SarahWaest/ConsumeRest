@@ -1,4 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Net;
+using System.Net.Http;
+using System.Threading.Tasks;
+using ModelLib.Model;
+using Newtonsoft.Json;
 
 namespace ConsumeRest
 {
@@ -6,7 +12,11 @@ namespace ConsumeRest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Worker w1 = new Worker();
+
+            w1.Start();
+            Console.ReadLine();
         }
     }
+
 }

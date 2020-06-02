@@ -1,0 +1,29 @@
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.deps.json
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.runtimeconfig.json
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.runtimeconfig.dev.json
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.dll
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csprojAssemblyReference.cache
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csproj.CoreCompileInputs.cache
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.AssemblyInfoInputs.cache
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.AssemblyInfo.cs
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csproj.CopyComplete
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.pdb
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.dll
+C:\Users\West\source\repos\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.pdb
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csprojAssemblyReference.cache
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csproj.CoreCompileInputs.cache
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.AssemblyInfoInputs.cache
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.AssemblyInfo.cs
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.dll
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.pdb
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\Settings.job
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.deps.json
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.runtimeconfig.json
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.runtimeconfig.dev.json
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.dll
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ConsumeRest.pdb
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\West\Desktop\3. Semester\Technology\Rest\ConsumeRest\ConsumeRest\obj\Debug\netcoreapp2.1\ConsumeRest.csproj.CopyComplete
